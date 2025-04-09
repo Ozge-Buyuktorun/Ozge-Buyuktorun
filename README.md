@@ -1,4 +1,4 @@
-# 👋 Merhaba! Ben Ozge Buyuktorun
+# 👋 Hello! Ben Ozge Buyuktorun
 
 ✨ After graduating as a **Biomedical Engineer** with a solid foundation in electronics and software, I began my career in the **medical sector**, specializing in **medical electronics** and **quality assurance**.  
 ✨ With expertise in both **hardware and software**, I made a seamless transition into the **software industry** in February 2022, driven by a deep **passion for technology and innovation**.  
