@@ -21,7 +21,7 @@
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)   ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)   ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white)  ![SVN](https://img.shields.io/badge/-SVN-809CC9?style=flat-square&logo=subversion&logoColor=white)
 
 ### 🔹 Cloud & Infrastructure  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)  --> CloudWatch, DynamoDB, IoT Core, S3, Cognito, AWS SAM CLI
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ~>> CloudWatch, DynamoDB, IoT Core, S3, Cognito, AWS SAM CLI
 
 ### 🔹 Tools & Platforms  
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)  ![Confluence](https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)  ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=trello&logoColor=white)  
@@ -34,7 +34,7 @@
 ### 🔹 Databases  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-📫 [LinkedIn]([https://www.linkedin.com/in/aysegul-dev](https://www.linkedin.com/in/ozgebuyuktorun1/))
+📫 [LinkedIn]([https://www.linkedin.com/in/aysegul-dev](https://www.linkedin.com/in/ozgebuyuktorun1/)) : https://www.linkedin.com/in/ozgebuyuktorun1/
 
 ### GitHub Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ozge-Buyuktorun&show_icons=true&theme=radical)
