@@ -57,7 +57,6 @@
   <img src="https://img.shields.io/badge/WebSocket-FF6F00?style=for-the-badge&logo=socket.io&logoColor=white" />
 </p>
 
-
 🧩 UI & Automation Frameworks
 🧩 QT Framework, PyQT, Tkinter, BDD Frameworks
 <p>
@@ -67,21 +66,11 @@
   <img src="https://img.shields.io/badge/BDD_Frameworks-C42B1C?style=for-the-badge&logo=cucumber&logoColor=white" />
 </p>
 
-
 ### 🔹 Databases  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-
 ### GitHub Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ozge-Buyuktorun&show_icons=true&theme=radical)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" />
-</p>
 
 ### 💬 Let's Connect
 - 💼 LinkedIn: [Click to Button](https://www.linkedin.com/in/ozgebuyuktorun1/)
