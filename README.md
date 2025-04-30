@@ -70,7 +70,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ### GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ozge-Buyuktorun&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ozgebuyuktorunanka&show_icons=true&theme=radical)
 
 ### 💬 Let's Connect
 - 💼 LinkedIn: [Click to Button](https://www.linkedin.com/in/ozgebuyuktorun1/)
